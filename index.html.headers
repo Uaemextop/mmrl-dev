@@ -1,0 +1,33 @@
+{
+  "url": "https://mmrl.dev",
+  "status_code": 200,
+  "headers": {
+    "Date": "Thu, 12 Mar 2026 10:01:16 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "last-modified": "Thu, 12 Mar 2026 06:48:51 GMT",
+    "access-control-allow-origin": "*",
+    "Speculation-Rules": "\"/cdn-cgi/speculation\"",
+    "expires": "Thu, 12 Mar 2026 07:45:34 GMT",
+    "Cache-Control": "max-age=600",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Ehz50%2By4%2F9yHpAaS8VGBE9jd9G8HQvd5HmLcBmKxtx04UIgsPnBWVuhrgXC4%2FgLb0W8%2BRHjMAuLlGl3bMO35m88AytFjCKvq\"}]}",
+    "x-proxy-cache": "MISS",
+    "x-github-request-id": "38C6:18C83F:115B95E:1254359:69B26CC6",
+    "Server-Timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=2,cfOrigin;dur=2",
+    "via": "1.1 varnish",
+    "Age": "127",
+    "x-served-by": "cache-dfw-kdfw8210035-DFW",
+    "x-cache": "HIT",
+    "x-cache-hits": "1",
+    "x-timer": "S1773309676.337470,VS0,VE2",
+    "vary": "Accept-Encoding",
+    "x-fastly-request-id": "e335e679f5bf596b8152701e55c217942f1e54f7",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Content-Encoding": "br",
+    "CF-RAY": "9db1f4e51dfdf074-DFW",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  }
+}
